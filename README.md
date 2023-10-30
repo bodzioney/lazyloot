@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This was my final project for CMSC430 at UMD. The goal of this project was to implement a compiler and runtime system for a lazily evaluated subset of the Loot language. Specifically, it aims to implement the technique outlined in *A New Implementation Technique for Applicative Languages* by David Turner.
+This was my final project for CMSC430 at UMD. The goal of this project was to implement a compiler and runtime system for a lazily evaluated subset of the Racket language. Specifically, it aims to implement the technique outlined in *A New Implementation Technique for Applicative Languages* by David Turner.
 
 ## Implementation
 
